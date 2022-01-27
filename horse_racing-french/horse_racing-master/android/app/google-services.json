@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "74966760520",
+    "project_id": "chg-racing",
+    "storage_bucket": "chg-racing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74966760520:android:7d8502205853744effec7d",
+        "android_client_info": {
+          "package_name": "com.example.chg_racing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74966760520-iqljqb3apqji0b0d2n1op479qu4evr66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chg_racing",
+            "certificate_hash": "9f65a6d4eba4fc11c29d9fcc0fcb3bf1464b3227"
+          }
+        },
+        {
+          "client_id": "74966760520-t0vlaptal4rrehgp4fsove820sfl4dpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVzoByzG7e8_wfrcLfYYPnYS0CZdeHyWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74966760520-t0vlaptal4rrehgp4fsove820sfl4dpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
