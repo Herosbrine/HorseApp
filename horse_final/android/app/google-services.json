@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "32970980180",
+    "project_id": "horse-racing-d7b76",
+    "storage_bucket": "horse-racing-d7b76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32970980180:android:0b80091adaeaa8a49066c1",
+        "android_client_info": {
+          "package_name": "com.example.chg_racing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32970980180-kgfq0alvr4c815h1sbapln9kbjqnt3jb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyZ2jan6l_a_OPokmGA347aEINGA_gAdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32970980180-kgfq0alvr4c815h1sbapln9kbjqnt3jb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
